@@ -1,0 +1,62 @@
+C:\Users\lvqianyi\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.exe.config
+C:\Users\lvqianyi\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.exe
+C:\Users\lvqianyi\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.pdb
+C:\Users\lvqianyi\source\repos\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.xml
+C:\Users\lvqianyi\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.vbproj.AssemblyReference.cache
+C:\Users\lvqianyi\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.Form1.resources
+C:\Users\lvqianyi\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.Form2.resources
+C:\Users\lvqianyi\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.Resources.resources
+C:\Users\lvqianyi\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.vbproj.GenerateResource.cache
+C:\Users\lvqianyi\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.vbproj.CoreCompileInputs.cache
+C:\Users\lvqianyi\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.exe
+C:\Users\lvqianyi\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.xml
+C:\Users\lvqianyi\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.pdb
+C:\Users\lvqianyi\source\repos\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.exe.config
+C:\Mac\Home\Desktop\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.exe.config
+C:\Mac\Home\Desktop\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.exe
+C:\Mac\Home\Desktop\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.pdb
+C:\Mac\Home\Desktop\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.xml
+C:\Mac\Home\Desktop\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.vbproj.AssemblyReference.cache
+C:\Mac\Home\Desktop\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.exe.config
+C:\Mac\Home\Desktop\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.Resources.resources
+C:\Mac\Home\Desktop\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.vbproj.GenerateResource.cache
+C:\Mac\Home\Desktop\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.vbproj.CoreCompileInputs.cache
+C:\Mac\Home\Desktop\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.exe
+C:\Mac\Home\Desktop\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.xml
+C:\Mac\Home\Desktop\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.pdb
+C:\Mac\Home\Desktop\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.map.resources
+C:\Mac\Home\Desktop\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.今天吃什么.resources
+C:\Mac\Home\Desktop\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.随机生成食物.resources
+C:\Mac\Home\Desktop\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.个人中心.resources
+C:\Mac\Home\Desktop\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.菜品详情.resources
+C:\Mac\Home\Desktop\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.我的收藏.resources
+C:\Mac\Home\Desktop\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.主页面.resources
+C:\Mac\Home\Desktop\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.Form1.resources
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.exe
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.pdb
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\bin\Debug\WindowsApp7.xml
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.vbproj.AssemblyReference.cache
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.今天吃什么.resources
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.随机生成食物.resources
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.个人中心.resources
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.菜品详情.resources
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.我的收藏.resources
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.主页面.resources
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.map.resources
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.Resources.resources
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.vbproj.GenerateResource.cache
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.vbproj.CoreCompileInputs.cache
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.exe
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.xml
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.pdb
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.忘记密码.resources
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.注册.resources
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.用户登录.resources
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.首页.resources
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.管理员登录.resources
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.校味互鉴.resources
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.我的评论.resources
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.评价.resources
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.adminisitrator.resources
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.排行榜界面.resources
+D:\数据库\WindowsApp7 最终\WindowsApp7\WindowsApp7\obj\Debug\WindowsApp7.推荐.resources

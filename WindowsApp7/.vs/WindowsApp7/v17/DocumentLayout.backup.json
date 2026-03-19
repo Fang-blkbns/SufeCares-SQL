@@ -1,0 +1,631 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|d:\\\u6570\u636E\u5E93\\windowsapp7 \u6700\u7EC8\\windowsapp7\\windowsapp7\\\u63A8\u8350.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u63A8\u8350.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u7528\u6237\u767B\u5F55.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u7528\u6237\u767B\u5F55.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u4E3B\u9875\u9762.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u4E3B\u9875\u9762.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u767B\u5F55.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u767B\u5F55.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u4E2A\u4EBA\u4E2D\u5FC3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u4E2A\u4EBA\u4E2D\u5FC3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u83DC\u54C1\u8BE6\u60C5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u83DC\u54C1\u8BE6\u60C5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u83DC\u54C1\u8BE6\u60C5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u83DC\u54C1\u8BE6\u60C5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u6CE8\u518C.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u6CE8\u518C.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u6211\u7684\u8BC4\u8BBA.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u6211\u7684\u8BC4\u8BBA.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u6211\u7684\u6536\u85CF.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u6211\u7684\u6536\u85CF.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u6211\u7684\u8BC4\u8BBA.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u6211\u7684\u8BC4\u8BBA.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u4ECA\u5929\u5403\u4EC0\u4E48.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u4ECA\u5929\u5403\u4EC0\u4E48.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u4E3B\u9875\u9762.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u4E3B\u9875\u9762.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\adminisitrator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\adminisitrator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\adminisitrator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\adminisitrator.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u4ECA\u5929\u5403\u4EC0\u4E48.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u4ECA\u5929\u5403\u4EC0\u4E48.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u6211\u7684\u6536\u85CF.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u6211\u7684\u6536\u85CF.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u8BC4\u4EF7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u8BC4\u4EF7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u8BC4\u4EF7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u8BC4\u4EF7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u968F\u673A\u751F\u6210\u98DF\u7269.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u968F\u673A\u751F\u6210\u98DF\u7269.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u767B\u5F55.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u767B\u5F55.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u7528\u6237\u767B\u5F55.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u7528\u6237\u767B\u5F55.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u6CE8\u518C.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u6CE8\u518C.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u6821\u5473\u4E92\u9274.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u6821\u5473\u4E92\u9274.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u63A8\u8350.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u63A8\u8350.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u5FD8\u8BB0\u5BC6\u7801.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u5FD8\u8BB0\u5BC6\u7801.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u4E2A\u4EBA\u4E2D\u5FC3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u4E2A\u4EBA\u4E2D\u5FC3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\adminisitrator.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\adminisitrator.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u7BA1\u7406\u5458\u767B\u5F55.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u7BA1\u7406\u5458\u767B\u5F55.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u7BA1\u7406\u5458\u767B\u5F55.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u7BA1\u7406\u5458\u767B\u5F55.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u7BA1\u7406\u5458\u767B\u5F55.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u7BA1\u7406\u5458\u767B\u5F55.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\my project\\assemblyinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\my project\\assemblyinfo.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u6392\u884C\u699C\u754C\u9762.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u6392\u884C\u699C\u754C\u9762.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u63A8\u8350.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u63A8\u8350.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u6392\u884C\u699C\u754C\u9762.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u6392\u884C\u699C\u754C\u9762.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\map.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\map.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u6821\u5473\u4E92\u9274.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u6821\u5473\u4E92\u9274.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u5FD8\u8BB0\u5BC6\u7801.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u5FD8\u8BB0\u5BC6\u7801.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\windowsapp7\\\u968F\u673A\u751F\u6210\u98DF\u7269.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2CDE02A8-4970-4D97-9935-666CB7045671}|WindowsApp7\\WindowsApp7.vbproj|solutionrelative:windowsapp7\\\u968F\u673A\u751F\u6210\u98DF\u7269.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "\u4E3B\u9875\u9762.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u4E3B\u9875\u9762.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u4E3B\u9875\u9762.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u4E3B\u9875\u9762.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WindowsApp7\\\u4E3B\u9875\u9762.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-11T12:15:34.193Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u7528\u6237\u767B\u5F55.vb",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u7528\u6237\u767B\u5F55.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u7528\u6237\u767B\u5F55.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u7528\u6237\u767B\u5F55.vb",
+              "RelativeToolTip": "WindowsApp7\\\u7528\u6237\u767B\u5F55.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-25T17:41:11.86Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "\u6CE8\u518C.vb",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u6CE8\u518C.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u6CE8\u518C.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u6CE8\u518C.vb",
+              "RelativeToolTip": "WindowsApp7\\\u6CE8\u518C.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-25T21:38:16.272Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u4E3B\u9875\u9762.vb",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u4E3B\u9875\u9762.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u4E3B\u9875\u9762.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u4E3B\u9875\u9762.vb",
+              "RelativeToolTip": "WindowsApp7\\\u4E3B\u9875\u9762.vb",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-25T18:51:22.34Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\u4E2A\u4EBA\u4E2D\u5FC3.vb",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u4E2A\u4EBA\u4E2D\u5FC3.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u4E2A\u4EBA\u4E2D\u5FC3.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u4E2A\u4EBA\u4E2D\u5FC3.vb",
+              "RelativeToolTip": "WindowsApp7\\\u4E2A\u4EBA\u4E2D\u5FC3.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-25T19:02:17.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\u83DC\u54C1\u8BE6\u60C5.vb",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u83DC\u54C1\u8BE6\u60C5.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u83DC\u54C1\u8BE6\u60C5.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u83DC\u54C1\u8BE6\u60C5.vb",
+              "RelativeToolTip": "WindowsApp7\\\u83DC\u54C1\u8BE6\u60C5.vb",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAQwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-10T18:14:04.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u767B\u5F55.vb",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u767B\u5F55.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u767B\u5F55.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u767B\u5F55.vb",
+              "RelativeToolTip": "WindowsApp7\\\u767B\u5F55.vb",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwDIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-26T17:49:23.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u63A8\u8350.vb",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u63A8\u8350.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u63A8\u8350.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u63A8\u8350.vb",
+              "RelativeToolTip": "WindowsApp7\\\u63A8\u8350.vb",
+              "ViewState": "AgIAAK0BAAAAAAAAAAAcwMwBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-26T23:26:44.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "\u83DC\u54C1\u8BE6\u60C5.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u83DC\u54C1\u8BE6\u60C5.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u83DC\u54C1\u8BE6\u60C5.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u83DC\u54C1\u8BE6\u60C5.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WindowsApp7\\\u83DC\u54C1\u8BE6\u60C5.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-10T18:02:24.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "\u6211\u7684\u8BC4\u8BBA.vb",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u6211\u7684\u8BC4\u8BBA.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u6211\u7684\u8BC4\u8BBA.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u6211\u7684\u8BC4\u8BBA.vb",
+              "RelativeToolTip": "WindowsApp7\\\u6211\u7684\u8BC4\u8BBA.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-26T19:08:46.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "\u6211\u7684\u6536\u85CF.vb",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u6211\u7684\u6536\u85CF.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u6211\u7684\u6536\u85CF.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u6211\u7684\u6536\u85CF.vb",
+              "RelativeToolTip": "WindowsApp7\\\u6211\u7684\u6536\u85CF.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-26T20:22:41.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "\u6211\u7684\u8BC4\u8BBA.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u6211\u7684\u8BC4\u8BBA.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u6211\u7684\u8BC4\u8BBA.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u6211\u7684\u8BC4\u8BBA.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WindowsApp7\\\u6211\u7684\u8BC4\u8BBA.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-26T19:02:05.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "\u4ECA\u5929\u5403\u4EC0\u4E48.vb",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u4ECA\u5929\u5403\u4EC0\u4E48.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u4ECA\u5929\u5403\u4EC0\u4E48.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u4ECA\u5929\u5403\u4EC0\u4E48.vb",
+              "RelativeToolTip": "WindowsApp7\\\u4ECA\u5929\u5403\u4EC0\u4E48.vb",
+              "ViewState": "AgIAAMwAAAAAAAAAAIA0wPgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-10T15:00:51.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "adminisitrator.vb",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\adminisitrator.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\adminisitrator.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\adminisitrator.vb",
+              "RelativeToolTip": "WindowsApp7\\adminisitrator.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-26T22:16:03.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "adminisitrator.vb [\u8BBE\u8BA1 - Blin]",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\adminisitrator.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\adminisitrator.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\adminisitrator.vb [\u8BBE\u8BA1 - Blin]",
+              "RelativeToolTip": "WindowsApp7\\adminisitrator.vb [\u8BBE\u8BA1 - Blin]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-26T22:12:11.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "\u4ECA\u5929\u5403\u4EC0\u4E48.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u4ECA\u5929\u5403\u4EC0\u4E48.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u4ECA\u5929\u5403\u4EC0\u4E48.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u4ECA\u5929\u5403\u4EC0\u4E48.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WindowsApp7\\\u4ECA\u5929\u5403\u4EC0\u4E48.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-10T14:59:23.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "\u6211\u7684\u6536\u85CF.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u6211\u7684\u6536\u85CF.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u6211\u7684\u6536\u85CF.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u6211\u7684\u6536\u85CF.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WindowsApp7\\\u6211\u7684\u6536\u85CF.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-11T11:53:29.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "\u8BC4\u4EF7.vb",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u8BC4\u4EF7.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u8BC4\u4EF7.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u8BC4\u4EF7.vb",
+              "RelativeToolTip": "WindowsApp7\\\u8BC4\u4EF7.vb",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAWwF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-27T05:47:03.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "\u8BC4\u4EF7.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u8BC4\u4EF7.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u8BC4\u4EF7.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u8BC4\u4EF7.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WindowsApp7\\\u8BC4\u4EF7.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-26T21:40:34.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "\u968F\u673A\u751F\u6210\u98DF\u7269.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u968F\u673A\u751F\u6210\u98DF\u7269.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u968F\u673A\u751F\u6210\u98DF\u7269.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u968F\u673A\u751F\u6210\u98DF\u7269.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WindowsApp7\\\u968F\u673A\u751F\u6210\u98DF\u7269.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-11T09:30:23.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "\u767B\u5F55.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u767B\u5F55.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u767B\u5F55.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u767B\u5F55.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WindowsApp7\\\u767B\u5F55.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-26T20:30:16.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "\u7528\u6237\u767B\u5F55.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u7528\u6237\u767B\u5F55.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u7528\u6237\u767B\u5F55.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u7528\u6237\u767B\u5F55.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WindowsApp7\\\u7528\u6237\u767B\u5F55.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-25T17:37:09.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "\u6CE8\u518C.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u6CE8\u518C.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u6CE8\u518C.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u6CE8\u518C.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WindowsApp7\\\u6CE8\u518C.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-25T17:15:06.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "\u6821\u5473\u4E92\u9274.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u6821\u5473\u4E92\u9274.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u6821\u5473\u4E92\u9274.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u6821\u5473\u4E92\u9274.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WindowsApp7\\\u6821\u5473\u4E92\u9274.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-26T20:14:20.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "\u63A8\u8350.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u63A8\u8350.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u63A8\u8350.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u63A8\u8350.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WindowsApp7\\\u63A8\u8350.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-26T23:21:19.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "\u5FD8\u8BB0\u5BC6\u7801.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u5FD8\u8BB0\u5BC6\u7801.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u5FD8\u8BB0\u5BC6\u7801.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u5FD8\u8BB0\u5BC6\u7801.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WindowsApp7\\\u5FD8\u8BB0\u5BC6\u7801.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-25T17:57:45.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "\u4E2A\u4EBA\u4E2D\u5FC3.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u4E2A\u4EBA\u4E2D\u5FC3.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u4E2A\u4EBA\u4E2D\u5FC3.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u4E2A\u4EBA\u4E2D\u5FC3.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WindowsApp7\\\u4E2A\u4EBA\u4E2D\u5FC3.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-11T11:52:27.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "adminisitrator.Designer.vb",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\adminisitrator.Designer.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\adminisitrator.Designer.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\adminisitrator.Designer.vb",
+              "RelativeToolTip": "WindowsApp7\\adminisitrator.Designer.vb",
+              "ViewState": "AgIAADwAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-27T01:08:18.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "\u7BA1\u7406\u5458\u767B\u5F55.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u7BA1\u7406\u5458\u767B\u5F55.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u7BA1\u7406\u5458\u767B\u5F55.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u7BA1\u7406\u5458\u767B\u5F55.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WindowsApp7\\\u7BA1\u7406\u5458\u767B\u5F55.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-25T17:35:55.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "\u7BA1\u7406\u5458\u767B\u5F55.vb",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u7BA1\u7406\u5458\u767B\u5F55.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u7BA1\u7406\u5458\u767B\u5F55.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u7BA1\u7406\u5458\u767B\u5F55.vb",
+              "RelativeToolTip": "WindowsApp7\\\u7BA1\u7406\u5458\u767B\u5F55.vb",
+              "ViewState": "AgIAAAUAAACAtbhxh0kOwBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-26T09:14:26.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "\u7BA1\u7406\u5458\u767B\u5F55.Designer.vb",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u7BA1\u7406\u5458\u767B\u5F55.Designer.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u7BA1\u7406\u5458\u767B\u5F55.Designer.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u7BA1\u7406\u5458\u767B\u5F55.Designer.vb",
+              "RelativeToolTip": "WindowsApp7\\\u7BA1\u7406\u5458\u767B\u5F55.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-27T01:02:14.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AssemblyInfo.vb",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\My Project\\AssemblyInfo.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\My Project\\AssemblyInfo.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\My Project\\AssemblyInfo.vb",
+              "RelativeToolTip": "WindowsApp7\\My Project\\AssemblyInfo.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-26T23:28:43.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "\u6392\u884C\u699C\u754C\u9762.resx",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u6392\u884C\u699C\u754C\u9762.resx",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u6392\u884C\u699C\u754C\u9762.resx",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u6392\u884C\u699C\u754C\u9762.resx",
+              "RelativeToolTip": "WindowsApp7\\\u6392\u884C\u699C\u754C\u9762.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-26T23:05:32.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "\u63A8\u8350.Designer.vb",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u63A8\u8350.Designer.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u63A8\u8350.Designer.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u63A8\u8350.Designer.vb",
+              "RelativeToolTip": "WindowsApp7\\\u63A8\u8350.Designer.vb",
+              "ViewState": "AgIAAMcBAAAAAAAAAAAwwAUBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-26T23:21:56.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "\u6392\u884C\u699C\u754C\u9762.Designer.vb",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u6392\u884C\u699C\u754C\u9762.Designer.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u6392\u884C\u699C\u754C\u9762.Designer.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u6392\u884C\u699C\u754C\u9762.Designer.vb",
+              "RelativeToolTip": "WindowsApp7\\\u6392\u884C\u699C\u754C\u9762.Designer.vb",
+              "ViewState": "AgIAAF0BAAAAAAAAAAAAAGgBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-26T23:05:17.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "map.vb [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\map.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\map.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\map.vb [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WindowsApp7\\map.vb [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-10T15:01:03.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "\u6821\u5473\u4E92\u9274.vb",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u6821\u5473\u4E92\u9274.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u6821\u5473\u4E92\u9274.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u6821\u5473\u4E92\u9274.vb",
+              "RelativeToolTip": "WindowsApp7\\\u6821\u5473\u4E92\u9274.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-26T12:57:33.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "\u5FD8\u8BB0\u5BC6\u7801.vb",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u5FD8\u8BB0\u5BC6\u7801.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u5FD8\u8BB0\u5BC6\u7801.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u5FD8\u8BB0\u5BC6\u7801.vb",
+              "RelativeToolTip": "WindowsApp7\\\u5FD8\u8BB0\u5BC6\u7801.vb",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA2wCAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-26T17:56:55.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "\u968F\u673A\u751F\u6210\u98DF\u7269.vb",
+              "DocumentMoniker": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u968F\u673A\u751F\u6210\u98DF\u7269.vb",
+              "RelativeDocumentMoniker": "WindowsApp7\\\u968F\u673A\u751F\u6210\u98DF\u7269.vb",
+              "ToolTip": "D:\\\u6570\u636E\u5E93\\WindowsApp7 \u6700\u7EC8\\WindowsApp7\\WindowsApp7\\\u968F\u673A\u751F\u6210\u98DF\u7269.vb",
+              "RelativeToolTip": "WindowsApp7\\\u968F\u673A\u751F\u6210\u98DF\u7269.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-11T09:31:46.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

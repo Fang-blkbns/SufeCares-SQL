@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2CDE02A8-4970-4D97-9935-666CB7045671}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApp7.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApp7</RootNamespace>
+    <AssemblyName>WindowsApp7</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PreferNativeArm64>true</PreferNativeArm64>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>WindowsApp7.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>WindowsApp7.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adminisitrator.Designer.vb">
+      <DependentUpon>adminisitrator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="adminisitrator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="排行榜界面.Designer.vb">
+      <DependentUpon>排行榜界面.vb</DependentUpon>
+    </Compile>
+    <Compile Include="排行榜界面.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="推荐.Designer.vb">
+      <DependentUpon>推荐.vb</DependentUpon>
+    </Compile>
+    <Compile Include="推荐.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="评价.Designer.vb">
+      <DependentUpon>评价.vb</DependentUpon>
+    </Compile>
+    <Compile Include="评价.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sufeDataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sufeDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="sufe_caresDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sufe_caresDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="今天吃什么.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="今天吃什么.Designer.vb">
+      <DependentUpon>今天吃什么.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="忘记密码.Designer.vb">
+      <DependentUpon>忘记密码.vb</DependentUpon>
+    </Compile>
+    <Compile Include="忘记密码.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="我的评论.Designer.vb">
+      <DependentUpon>我的评论.vb</DependentUpon>
+    </Compile>
+    <Compile Include="我的评论.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="校味互鉴.Designer.vb">
+      <DependentUpon>校味互鉴.vb</DependentUpon>
+    </Compile>
+    <Compile Include="校味互鉴.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="注册.Designer.vb">
+      <DependentUpon>注册.vb</DependentUpon>
+    </Compile>
+    <Compile Include="注册.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="用户登录.Designer.vb">
+      <DependentUpon>用户登录.vb</DependentUpon>
+    </Compile>
+    <Compile Include="用户登录.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="登录.Designer.vb">
+      <DependentUpon>登录.vb</DependentUpon>
+    </Compile>
+    <Compile Include="登录.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="管理员登录.Designer.vb">
+      <DependentUpon>管理员登录.vb</DependentUpon>
+    </Compile>
+    <Compile Include="管理员登录.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="随机生成食物.Designer.vb">
+      <DependentUpon>随机生成食物.vb</DependentUpon>
+    </Compile>
+    <Compile Include="随机生成食物.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="个人中心.Designer.vb">
+      <DependentUpon>个人中心.vb</DependentUpon>
+    </Compile>
+    <Compile Include="个人中心.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="菜品详情.Designer.vb">
+      <DependentUpon>菜品详情.vb</DependentUpon>
+    </Compile>
+    <Compile Include="菜品详情.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="我的收藏.Designer.vb">
+      <DependentUpon>我的收藏.vb</DependentUpon>
+    </Compile>
+    <Compile Include="我的收藏.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="主页面.Designer.vb">
+      <DependentUpon>主页面.vb</DependentUpon>
+    </Compile>
+    <Compile Include="主页面.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="map.Designer.vb">
+      <DependentUpon>map.vb</DependentUpon>
+    </Compile>
+    <Compile Include="map.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="sufeDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sufeDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="sufeDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sufeDataSet1.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="adminisitrator.resx">
+      <DependentUpon>adminisitrator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="排行榜界面.resx">
+      <DependentUpon>排行榜界面.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="推荐.resx">
+      <DependentUpon>推荐.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="评价.resx">
+      <DependentUpon>评价.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="今天吃什么.resx">
+      <DependentUpon>今天吃什么.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="忘记密码.resx">
+      <DependentUpon>忘记密码.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="我的评论.resx">
+      <DependentUpon>我的评论.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="校味互鉴.resx">
+      <DependentUpon>校味互鉴.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="注册.resx">
+      <DependentUpon>注册.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="用户登录.resx">
+      <DependentUpon>用户登录.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="登录.resx">
+      <DependentUpon>登录.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="管理员登录.resx">
+      <DependentUpon>管理员登录.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="随机生成食物.resx">
+      <DependentUpon>随机生成食物.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="个人中心.resx">
+      <DependentUpon>个人中心.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="菜品详情.resx">
+      <DependentUpon>菜品详情.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="我的收藏.resx">
+      <DependentUpon>我的收藏.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="主页面.resx">
+      <DependentUpon>主页面.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="map.resx">
+      <DependentUpon>map.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="sufeDataSet.xsc">
+      <DependentUpon>sufeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="sufeDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sufeDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="sufeDataSet.xss">
+      <DependentUpon>sufeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="sufeDataSet1.xsc">
+      <DependentUpon>sufeDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="sufeDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sufeDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="sufeDataSet1.xss">
+      <DependentUpon>sufeDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="sufeDataSet2.xsc">
+      <DependentUpon>sufeDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="sufeDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sufeDataSet2.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="sufeDataSet2.xss">
+      <DependentUpon>sufeDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="sufe_caresDataSet.xsc">
+      <DependentUpon>sufe_caresDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="sufe_caresDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sufe_caresDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="sufe_caresDataSet.xss">
+      <DependentUpon>sufe_caresDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WechatIMG2003.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 和 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo与背景.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
